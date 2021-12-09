@@ -3,9 +3,13 @@
 This portfolio includes my Résumé and some assignments I felt confident in while going through my MKTG3509 class as a Junior in Temple 
 ## My Résumé
 - [Résumé](https://colab.research.google.com/drive/1Qq63GhIxUMZvmlXdOVoeYWJPC_Ijhos3?usp=sharing)
-
+import fontstyle
+  
+# display formatted text
+print(fontstyle.apply('GEEKSFORGEEKS', 
+                      'bold/Italic/red/UNDERLINE/GREEN_BG'))
 ## Table of Contents
-1. **Module 2: Fundamentals of Programming for Data Analysis**
+1. **Module 2: Data Analysis Programming Fundimantals**
    - [A2 Programming Fundamentals](https://colab.research.google.com/drive/1KvWE6CdmgMcOAorS1X8RJ3R_9BuivLjt?usp=sharing)
 2. **Module 3: Working with Data**
    - [A3 Work with data Yelp Reviews](https://colab.research.google.com/drive/1IzqoBYwgGRpmUFJ5LR5YGdjfFMopK9Y5?usp=sharing)
