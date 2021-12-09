@@ -3,7 +3,6 @@
 This portfolio includes my Résumé and some assignments I felt confident in while going through my MKTG3509 class as a Junior in Temple 
 ## My Résumé
 - [Résumé](https://colab.research.google.com/drive/1Qq63GhIxUMZvmlXdOVoeYWJPC_Ijhos3?usp=sharing)
-import fontstyle
   
 ## Table of Contents
 1. **Module 2: Programming Fundamentals**
