@@ -1,5 +1,3 @@
-[pypi-image]: https://badge.fury.io/py/torch-geometric.svg
-[contributing-image]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
 
 # MKTG3509 Customer Data Analytics Portfolio
 This portfolio includes my Résumé and some assignments I felt confident in while going through my MKTG3509 class as a Junior in Temple 
@@ -23,8 +21,8 @@ This portfolio includes my Résumé and some assignments I felt confident in whi
    - [A8 - Logit](https://colab.research.google.com/drive/1_GyXvO-qkwQBsvikIL21NpmtQ_Ubkf8N?usp=sharing)
       - In this assignment we go through logit in python and the usefulness of calculating the marginal effects of sets of data.
 6. **Module 9: Clustering and segmentation**
-   - [A9 Segmentation (retail transactions and behavioral segmentation)](https://colab.research.google.com/drive/1930t3ARXWLQTs6dZmhpHEo7BHxhn9vcF?usp=sharing)
+   - [A9 - Segmentation](https://colab.research.google.com/drive/1930t3ARXWLQTs6dZmhpHEo7BHxhn9vcF?usp=sharing)
       - In this assignment we determined the optimal number of segments that could be used to interpret a dataset and created a K means clustering.
 7. **Module 10: Text Analysis**
-    - [A10 Vegas Resorts Text Mining](https://colab.research.google.com/drive/1tz98EZxGKKkVY6oy5lE5FWYqi5Sr7kuQ?usp=sharing)
+    - [A10 - Vegas Resorts Text Mining](https://colab.research.google.com/drive/1tz98EZxGKKkVY6oy5lE5FWYqi5Sr7kuQ?usp=sharing)
         - In this module we interpreted the validity/meaning of real world hotel reviews through Text Analysis. We measuerd the subjectivity and polarity of the reviews. We also looked at the common keywords or recurring topics that showed up for each review through TF-IDF and LDA models.
