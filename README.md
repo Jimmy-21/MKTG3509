@@ -1,4 +1,4 @@
-
+[pypi-image]: https://badge.fury.io/py/torch-geometric.svg
 # MKTG3509 Customer Data Analytics Portfolio
 This portfolio includes my Résumé and some assignments I felt confident in while going through my MKTG3509 class as a Junior in Temple 
 ## My Résumé
