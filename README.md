@@ -1,8 +1,8 @@
 
 # MKTG3509 Customer Data Analytics Portfolio
-This portfolio encompasses some assignments I felt confident in, while going through my MKTG3509 class as a Junior in Temple 
+This portfolio includes my Résumé and some assignments I felt confident in while going through my MKTG3509 class as a Junior in Temple 
 ## My Résumé
-- [Résumé](https://colab.research.google.com/drive/1qNx3AoWgn1llYVmeRY5-CmST0XevWAFB?usp=sharing#scrollTo=QTnw9i31t9n0)
+- [Résumé](https://colab.research.google.com/drive/1Qq63GhIxUMZvmlXdOVoeYWJPC_Ijhos3?usp=sharing)
 
 ## Table of Contents
 1. **Module 1: Using Colab**
