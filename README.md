@@ -5,10 +5,8 @@ This portfolio includes my Résumé and some assignments I felt confident in whi
 - [Résumé](https://colab.research.google.com/drive/1Qq63GhIxUMZvmlXdOVoeYWJPC_Ijhos3?usp=sharing)
 
 ## Table of Contents
-1. **Module 1: Using Colab**
-   - [A1: Markdown CV](https://templeu.instructure.com/courses/100008/assignments/1350602?module_item_id=3434876)
 2. **Module 2: Fundamentals of Programming for Data Analysis**
-   - [A2 Programming Fundamentals](https://templeu.instructure.com/courses/100008/assignments/1350603?module_item_id=3434885)
+   - [A2 Programming Fundamentals](https://colab.research.google.com/drive/1KvWE6CdmgMcOAorS1X8RJ3R_9BuivLjt?usp=sharing)
 3. **Module 3: Working with Data**
    - [A3 Work with data Yelp Reviews](https://templeu.instructure.com/courses/100008/assignments/1350604)
 4. **Module 4: Data Visualization**
