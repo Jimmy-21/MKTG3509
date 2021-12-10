@@ -1,11 +1,11 @@
 
 # MKTG3509 Customer Data Analytics Portfolio
 This portfolio includes my Résumé and some assignments I felt confident in while going through my MKTG3509 class as a Junior in Temple 
-## *My Résumé
+## *My Résumé*
 - [Résumé](https://colab.research.google.com/drive/1Qq63GhIxUMZvmlXdOVoeYWJPC_Ijhos3?usp=sharing)
   
-## *Table of Contents
-1. ***Module 2: Programming Fundamentals**
+## *Table of Contents*
+1. ***Module 2: Programming Fundamentals***
    - [A2 - The Basics of Programming](https://colab.research.google.com/drive/1KvWE6CdmgMcOAorS1X8RJ3R_9BuivLjt?usp=sharing)
       - In this assignment we had to test our initial knowledge of coding by working with lists, functions, if loops, etc.
 2. ***Module 3: Working with Data**
